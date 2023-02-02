@@ -1,0 +1,85 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Box{
+  background-color: rgba(0,0,0,0.5);
+  height: 800px;
+  width: 1200px;
+  margin:auto;
+  border-radius: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  box-sizing: border-box;
+}
+
+.centrami {
+  text-align: center;
+}
+
+div>img{
+  height: 120px;
+  margin-top: 80px;
+}
+
+h1{
+  text-align: center;
+  margin: 0px;
+  color: lime;
+}
+
+.opz {
+  text-align: center;
+  background-color: lime;
+  height: 50px;
+  padding-top: 15px;
+  box-sizing:border-box;
+  margin-bottom: 5px;
+
+}
+
+.selmon{
+  height: 15px;
+  width: 15px;
+
+}
+
+.bianco {
+
+  color: white;
+}
+
+h2{
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.caricamedia {
+  background-color: yellow;
+  height: 30px;
+  width: 320px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.caricaalta {
+  background-color: green;
+  height: 30px;
+  width: 550px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.caricabassa{
+  background-color: red;
+  height: 30px;
+  width: 150px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
